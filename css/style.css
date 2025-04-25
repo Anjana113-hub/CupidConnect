@@ -1,0 +1,145 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.picture img {
+    padding-top: 10px;
+    height: 80px;
+    width: 80px;
+}
+
+.bannerContent h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.bannerContent h1 span {
+    color: #dc3545;
+}
+.bannerContent p {
+    font-size: 20px;
+}
+.bannerContent ul {
+    list-style: none;
+}
+.bannerContent ul li {
+    font-size: 20px;
+}
+.bannerContent ul li i{
+    color: #dc3545;
+}
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+    border: none;
+}
+.bannerContentBtn button:first-child {
+    background-color: #dc3545;
+    color: white;
+}
+.bannerContentBtn button:last-child i {
+    color: #dc3545;
+}
+
+.bannerform {
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.bannerform h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #dc3545;
+}
+
+.bannerform button {
+    width: 100%;
+    background-color: #dc3545;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+
+.messagemodal {
+    font-style: italic;
+}
+
+.imgSection {
+    background-color: antiquewhite;
+}
+.carousel-item img {
+   width: 100%;
+    height: 650px;   
+}
+.counterSection h2 {
+    font-size: 20px;
+    padding: 10px 0px;
+}
+
+.counterSection .col i{
+    font-size: 25px;
+    color: #dc3545;
+}
+
+.modal-header h1 {
+    color: #dc3545;
+    font-weight: bold;
+}
+.modal-body h5 {
+    font-weight: bold;
+}
+.modal-body  span {
+    color: #dc3545;
+    font-weight: bolder;
+}
+
+.highlight-section {
+    background-color: rgb(247, 242, 243);
+}
+.highlight-section h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #dc3545;
+}
+
+.highlight-section p {
+    font-size: 20px;
+}
+
+.keySection img {
+    height: 80px;
+    background-color: aliceblue;
+    border-radius: 2px;
+}
+
+.highlightItems{
+    border-radius: 5px;
+
+}
+.highlightItems h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.highlightItems p {
+    font-size: 15px;
+}
+.faqSection {
+    background-color: rgb(255, 240, 242);
+}
+.faqSection h2 {
+    color: #dc3545;
+}
+.accordion-item span {
+    color: rgb(202, 54, 84);
+    font-weight: 500;
+}
+.tabColor .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: rgb(255, 240, 242);
+    color: rgb(183, 85, 85);
+    border-radius: 0px;
+    border-bottom: 2px solid #e86d7a;
+}
+.tabColor .nav-link {
+    color: #dc3545;
+}
