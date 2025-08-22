@@ -16,9 +16,6 @@
 - **UI Framework**: **Bootstrap** (for responsive design)
 - **Styling**: Custom **CSS** for a unique, tailored look
 
-## Live Demo
-
-You can view the live version of CupidConnect here: [CupidConnect Live Demo](https://Anjana113-hub.github.io/CupidConnect). Visit the site to explore its features in real-time!
 ## About the Developer
 
 CupidConnect is being developed by **Anjana Karmakar**, with a mission to create a platform that fosters meaningful connections and promotes positive relationships.
